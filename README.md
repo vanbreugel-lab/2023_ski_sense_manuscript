@@ -5,3 +5,4 @@ The main concepts used in the code can be used as an example for data analysis t
 - Extracting dominant structures from a large data set using Singular Value Decomposition (SVD).
 - Solving the transfer function of a data driven model using Convex Optimization and minimizing total variation.
 - Solving for the rigid body dynamics of a simple system.
+- Parameter reduction using Uniform Manifold Approximation and Projection (UMAP).
