@@ -1,5 +1,6 @@
 # Ski_Sense
-This repository contains the supporting data and code for the article "Ski Sense, a Method of Classifying Snow Types".
+This repository contains the supporting data and code for the article "A Method for Classifying Snow Using Ski-Mounted Strain Sensors
+". Read the paper on [arXiv](https://arxiv.org/abs/2304.14307).
 The main concepts used in the code can be used as an example for data analysis techniques including:
 - Extracting frequency content from real world signals.
 - Extracting dominant structures from a large data set using Singular Value Decomposition (SVD).
